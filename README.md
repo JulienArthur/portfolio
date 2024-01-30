@@ -5,6 +5,10 @@ Revue d'économie financière - avec Fabio Grieco et Quentin Paul.
 ### 2023.2. Challenge n°1 of the ECB Hackathon on Decentralized Finance [Institutional]
 Analyse de l'écosystème AAVE - risques et opportunités
 
+## 2022
+### 2022.1. [Personal] Désancrage de l’UST - Une réaction à chaud 
+Analyse personnelle du désancrage de l'UST et de l'effondrement de l'écosystème Terra
+
 ## 2020
 ### 2020.1. Estimation de potentiels de commerce par un modèle  de gravité [Institutional]
 Arthur, Dray, Pupetto
