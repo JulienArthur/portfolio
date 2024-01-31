@@ -16,6 +16,10 @@ Arthur, Dray, Pupetto
 
 
 ## Travaux personnels
+### 2023 
+#### 2023.1. Environmental goods agreement - the pivotal role of the OECD
+Analyse personnelle du role de l'OCDE dans la relance de l'accord sur les biens environnementaux. 
+
 ### 2022
-#### 2022.1. [Personal] Désancrage de l’UST - Une réaction à chaud 
+#### 2022.1. Désancrage de l’UST - Une réaction à chaud 
 Analyse personnelle du désancrage de l'UST et de l'effondrement de l'écosystème Terra
