@@ -19,6 +19,8 @@ Arthur, Dray, Pupetto
 ### 2023 
 #### 2023.1. Environmental goods agreement - the pivotal role of the OECD
 Analyse personnelle du role de l'OCDE dans la relance de l'accord sur les biens environnementaux. 
+#### 2023.2 Global Supply Chain Risks: COVID, Ukraine Conflict, and OECD Policy Responses
+Une étude approfondie sur les enjeux autours des disruptions de supply chains
 
 ### 2022
 #### 2022.1. Désancrage de l’UST - Une réaction à chaud 
